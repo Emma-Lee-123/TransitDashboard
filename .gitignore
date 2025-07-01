@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+*.log
+
+# Power BI auto-generated files
+*.pbix~  # temporary versions of Power BI files
+*.pbit
+
+# VS Code settings (optional)
+.vscode/
+
+# Jupyter (if used at some point)
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Data files
+gtfs/*.txt  # GTFS text files
+gtfs/*.zip
+gtfs/full_datasets/
+#*.csv  # (optional — only if you regenerate these)
