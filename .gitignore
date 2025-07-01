@@ -25,7 +25,7 @@ venv/
 Thumbs.db
 
 # Data files
-gtfs/*.txt  # GTFS text files
+gtfs/ 
 gtfs/*.zip
 gtfs/full_datasets/
 #*.csv  # (optional — only if you regenerate these)
